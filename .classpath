@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Network/Validation"/>
+	<classpathentry excluding="Validation/" kind="src" path="Network"/>
+	<classpathentry kind="src" path="TagMeImages"/>
+	<classpathentry kind="src" path="TextData"/>
+	<classpathentry kind="src" path="IMG"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/encog-core-3.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/encog-examples-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
